@@ -1,0 +1,33 @@
+synthesis report
+=== UART_Top ===
+
+   Number of wires:                275
+   Number of wire bits:            289
+   Number of public wires:          44
+   Number of public wire bits:      58
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                277
+Chip area for module '\UART_Top': 2906.537600
+DFF
+
+   Number of wires:                370
+   Number of wire bits:            412
+   Number of public wires:          23
+   Number of public wire bits:      65
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                400
+     $_ANDNOT_                      85
+     $_AND_                          6
+     $_MUX_                         31
+     $_NAND_                        13
+     $_NOR_                          5
+     $_NOT_                         55
+     $_ORNOT_                       19
+     $_OR_                         107
+     $_XNOR_                         8
+     $_XOR_                         28
+     sky130_fd_sc_hd__dfrtp_2       43
