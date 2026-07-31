@@ -39,7 +39,5 @@ This project implements a Universal Asynchronous Receiver Transmitter (UART) Con
 - GDSII Layout Generated Successfully
 
 ## Author
-**Pellakuri Voo Upasana
-## Author
 
 **Pellakuri Voo Upasana**
